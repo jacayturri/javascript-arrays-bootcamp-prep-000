@@ -35,3 +35,6 @@ function removeElementFromBeginningOfArray(chocolateBars) {
   return chocolateBars
 }
 
+function destructivelyRemoveElementFromEndOfArray(chocolateBars) {
+  
+}
